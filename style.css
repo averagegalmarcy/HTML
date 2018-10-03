@@ -1,0 +1,32 @@
+body {
+    background-color: whitesmoke; 
+}
+h1, h2, h6 {
+    color: rgb(17, 77, 189)
+}
+.large-text {
+    font-size: 40px
+    text-align: center;
+}
+#main-heading {
+    text-decoration:underline 
+}
+div ul {
+    color: black;
+    border-style: groove;
+    border-color: black; 
+    list-style-position: inside; 
+}
+
+h1, h6 {
+    border: dashed; 
+    text-align: center; 
+}
+h2 {
+    border-style: groove; 
+    text-align: center;
+}
+p {
+    border-style: groove; 
+    border-color:black; 
+}
